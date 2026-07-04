@@ -124,6 +124,7 @@
 - **[Decentralized Multi-Agent Systems with Shared Context](https://arxiv.org/abs/2606.10662)**
 - **[Sakana Fugu Technical Report](https://arxiv.org/abs/2606.21228)**
 - **[A Technical Taxonomy of LLM Agent Communication Protocols](https://arxiv.org/abs/2606.19135)**
+- **[Will Scaling Improve Social Simulation with LLMs?](https://arxiv.org/abs/2607.02464)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
