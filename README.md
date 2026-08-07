@@ -301,6 +301,7 @@
 - **[Distributional AGI Safety: Governance Trade-offs in Multi-Agent Systems Under Adversarial Pressure](https://github.com/swarm-ai-safety/swarm)**
 - **[Agentopia: Long-Term Life Simulation and Learning in Agent Societies](https://arxiv.org/abs/2606.07513)**
 - **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)**
+- **[From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models](https://huggingface.co/papers/2608.06020)**
 
 ## Workflow, Architecture & Agent Design
 
