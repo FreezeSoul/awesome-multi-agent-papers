@@ -302,8 +302,9 @@
 - **[Agentopia: Long-Term Life Simulation and Learning in Agent Societies](https://arxiv.org/abs/2606.07513)**
 - **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)**
 - **[From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models](https://huggingface.co/papers/2608.06020)**
-- **A game theory for foundation models shows new paths to rational cooperation through similarity inference [Link](https://arxiv.org/abs/2608.03958)
-- **MatrAIx: Simulating the World with 8.3 Billion Persona Agents [LINK](https://huggingface.co/papers/2608.04205)
+- A game theory for foundation models shows new paths to rational cooperation through similarity inference [Link](https://arxiv.org/abs/2608.03958)
+- MatrAIx: Simulating the World with 8.3 Billion Persona Agents [LINK](https://huggingface.co/papers/2608.04205)
+- Business Arena: Benchmarking LLM Agents in a Realistic Marketplace [LINK](https://huggingface.co/papers/2608.08621)
 
 ## Workflow, Architecture & Agent Design
 
