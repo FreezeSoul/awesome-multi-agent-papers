@@ -305,6 +305,7 @@
 - A game theory for foundation models shows new paths to rational cooperation through similarity inference [Link](https://arxiv.org/abs/2608.03958)
 - MatrAIx: Simulating the World with 8.3 Billion Persona Agents [LINK](https://huggingface.co/papers/2608.04205)
 - Business Arena: Benchmarking LLM Agents in a Realistic Marketplace [LINK](https://huggingface.co/papers/2608.08621)
+- Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop [LINK](https://huggingface.co/papers/2608.11215)
 
 ## Workflow, Architecture & Agent Design
 
