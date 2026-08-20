@@ -198,6 +198,7 @@
 ### Security
 - **[BreachSeek: A Multi-Agent Automated Penetration Tester](https://arxiv.org/abs/2409.03789)**
 - **[Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems](https://huggingface.co/papers/2605.27766)**
+- Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems [Link](https://www.alphaxiv.org/abs/2608.10218)
 
 ### Multimodal
 - **[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/pdf/2403.13248)**
